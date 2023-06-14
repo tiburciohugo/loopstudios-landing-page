@@ -5,14 +5,9 @@ import { Alata } from "next/font/google";
 import { useState } from "react";
 import MenuMobile from "@/components/UI/MenuMobile";
 import Footer from "@/components/UI/Footer";
+import { metadata } from "@/metadata";
 
 const alata = Alata({ subsets: ["latin-ext"], weight: "400" });
-
-export const metadata = {
-  title: "Loopstudios Landing Page",
-  description: "Immersive experiences that deliver",
-  image: "/images/loopstudios-landing-page-preview.jpg",
-};
 
 export default function RootLayout({
   children,
