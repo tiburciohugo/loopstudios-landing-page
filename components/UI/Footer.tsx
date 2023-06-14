@@ -35,22 +35,22 @@ export default function Footer() {
         <nav className="">
           <ul className="mt-8 flex items-center justify-center gap-4 lg:mt-0 lg:justify-end">
             <li className="border-b-2 border-transparent pb-2 transition duration-300 ease-in-out hover:border-white">
-              <a href="http://" target="_blank" rel="noopener noreferrer">
+              <a href="/#" target="_blank" rel="noopener noreferrer">
                 <img src="icon-facebook.svg" alt="facebook" />
               </a>
             </li>
             <li className="border-b-2 border-transparent pb-2 transition duration-300 ease-in-out hover:border-white">
-              <a href="http://" target="_blank" rel="noopener noreferrer">
+              <a href="/#" target="_blank" rel="noopener noreferrer">
                 <img src="icon-twitter.svg" alt="twitter" />
               </a>
             </li>
             <li className="border-b-2 border-transparent pb-2 transition duration-300 ease-in-out hover:border-white">
-              <a href="http://" target="_blank" rel="noopener noreferrer">
+              <a href="/#" target="_blank" rel="noopener noreferrer">
                 <img src="icon-pinterest.svg" alt="pinterest" />
               </a>
             </li>
             <li className="border-b-2 border-transparent pb-2 transition duration-300 ease-in-out hover:border-white">
-              <a href="http://" target="_blank" rel="noopener noreferrer">
+              <a href="/#" target="_blank" rel="noopener noreferrer">
                 <img src="icon-instagram.svg" alt="instagram" />
               </a>
             </li>
