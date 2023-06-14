@@ -41,8 +41,8 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/)
-- Live Site URL: [Live site URL]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/loopstudios-landing-page-made-with-nextjs-and-tailwind-css-7cMpLZH02D)
+- Live Site URL: [Live site URL](https://loopstudios-landing-page-one-nu.vercel.app)
 
 ## My process
 
