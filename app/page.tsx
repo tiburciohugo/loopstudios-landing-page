@@ -44,8 +44,7 @@ export default function Home() {
       <section className="relative px-6 py-24 xl:px-40 xl:py-48">
         <Image
           src="/desktop/image-interactive.jpg"
-          alt="interactive"
-          loading="lazy"
+          alt="interactive"          
           className="mx-auto object-contain md:mx-0 md:h-[500px] md:w-[731px]"
           width={327}
           height={527}

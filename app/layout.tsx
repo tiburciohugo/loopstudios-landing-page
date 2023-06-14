@@ -20,11 +20,14 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>{metadata.title}</title>
-        <meta name="description" content={metadata.description} />
+        <title property="title" content={metadata.title} />
+        <meta
+          name="description"
+          property="description"
+          content={metadata.description}
+        />
         <meta property="og:title" content={metadata.title} />
-        <meta property="og:description" content={metadata.description} />
-        <link rel="shortcut icon" href="favicon-32x32.png" type="image/png" />
+        <link rel="icon" href={metadata.icon} type="image/png" />
       </head>
       <body className={alata.className}>
         <Header showMenu={showMenu} toggle={toggle} />
